@@ -5,7 +5,7 @@ import Cart from "../component/Cart";
 import { food_items } from "../food";
 import { dataContext } from "../context/UserContext";
 import { MdCancel } from "react-icons/md";
-import Card from "../component/card";
+import Card from "../component/Card";
 import { useSelector } from "react-redux";
 import { toast } from "react-toastify";
 
