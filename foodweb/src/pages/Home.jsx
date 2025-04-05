@@ -3,7 +3,7 @@ import Nav from "../component/Nav";
 import Categories from "../Category";
 import Cart from "../component/Cart";
 import { food_items } from "../food";
-import { dataContext } from "../context/userContext";
+import { dataContext } from "../context/UserContext";
 import { MdCancel } from "react-icons/md";
 import Card from "../component/card";
 import { useSelector } from "react-redux";
